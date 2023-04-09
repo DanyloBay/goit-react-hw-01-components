@@ -1,0 +1,29 @@
+.transactions
+{
+}
+
+.transactionHistory {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 600px;
+    border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -khtml-border-radius: 10px;
+}
+
+.transactionHistory th,
+.transactionHistory td {
+    border: 1px solid rgba(131, 127, 127, 0.775);
+    border-radius: 5px;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.792);
+}
+
+.titleTable{
+    background-color: rgba(131, 127, 127, 0.775);
+}
+
+.main{
+    text-align: center;
+}
