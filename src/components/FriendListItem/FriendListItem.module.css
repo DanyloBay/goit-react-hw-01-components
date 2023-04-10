@@ -9,17 +9,9 @@
     box-shadow: 2px 2px 7px rgba(131, 127, 127, 0.775);
 }
 
-.isOnline {
+.status {
     width: 15px;
     height: 15px;
-    background-color: rgb(55, 255, 0);
-    border-radius: 50%;
-}
-
-.isOnlineNone{
-    width: 15px;
-    height: 15px;
-    background-color: red;
     border-radius: 50%;
 }
 
